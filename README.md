@@ -1,5 +1,5 @@
 # Who am i?
-I'm an experienced Operation and Maintenance Engineer and a Cloud Architecture Engineer with a professional background in AWS ([Amazon Web Services](https://aws.amazom.com)) and other Cloud Platform (not really🤔).
+I'm an experienced Operation and Maintenance Engineer and a Cloud Architecture Engineer with a professional background in AWS (Amazon Web Services) and other Cloud Platform (not really🤔).
 ---
 ## My Status
 ```python
@@ -18,13 +18,21 @@ print(my_work)
 ***Output***
 
 Y2021
+
 [*AWS Digita*l Customer Experience Competency Partners](https://aws.amazon.com/advertising-marketing/partner-solutions/?blog-posts-cards.sort-by=item.additionalFields.createdDate&blog-posts-cards.sort-order=desc&partner-case-studies-cards.sort-by=item.additionalFields.sortDate&partner-case-studies-cards.sort-order=desc)
+
 [*AWS Certified Solutions Architect - Associate*](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+
 Y2022
+
 [*Amazon EC2 for Windows Server Partners*](https://aws.amazon.com/windows/products/ec2/partners/)
+
 [AWS Certified Solutions Architect - Professional](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
+
 Y2023
+
 [*AWS Migration Competency Partners*](https://aws.amazon.com/migration/partner-solutions/?blog-posts-cards.sort-by=item.additionalFields.createdDate&blog-posts-cards.sort-order=desc&partner-case-studies-cards.sort-by=item.additionalFields.sortDate&partner-case-studies-cards.sort-order=desc)
+
 [*AWS Certified Cloud Practitioner*](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 <!--
 **kakafred/kakafred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
