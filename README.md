@@ -1,7 +1,9 @@
-# Who am i?
+# Who am i? 🧔🏻
 I'm an experienced Operation and Maintenance Engineer and a Cloud Architecture Engineer with a professional background in AWS (Amazon Web Services) and other Cloud Platform (not really🤔).
 
-## My Status
+(My Achievement Kanban 🏆)[https://www.credly.com/users/fan-sun.36becf0c]
+
+## My Work ⭐
 ```python
 """
 Over the past 5 years, I've had the privilege of
