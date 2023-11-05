@@ -28,6 +28,8 @@ Y2022
 
 [*Amazon EC2 for Windows Server Partners*](https://aws.amazon.com/windows/products/ec2/partners/)
 
+[*GCP Professional Cloud Architect*](https://cloud.google.com/learn/certification/cloud-architect)
+
 [AWS Certified Solutions Architect - Professional](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
 
 Y2023
